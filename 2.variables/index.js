@@ -27,5 +27,15 @@ let edadDeMiPerro
 //el nombre delvariable signo de asignacion 
 //y el tipon de dato que vammos almacenar 
 nombre_de_pais='arequipa'
-
+//LAS VARIABLES SON VARIABLES(PUEDEN SER REESCRITO)
+nombre_de_pais='bolivia'//estoy reescribiendo el enteriores
+nombre_de_pais=15//estoy cbio el tipo de dato
+nombre_de_pais=true
 console.log(nombre_de_pais) 
+
+//constantes 
+const numeroDni=12345678
+//que a diferencia de una variable
+//la constante no se puede mutar 
+//combiar el dato almacenado
+console.log(numeroDni)
