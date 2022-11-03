@@ -22,7 +22,7 @@ switch(numeroMes){
     default:
         console.log("error mes no encontrado")    
 }
-vocal="e"
+vocal="i"
 switch(vocal){
     case "a" :case "e" :case"i" :case"o" :case"u" :
         console.log("la letra  " +vocal+ " es una vocal")

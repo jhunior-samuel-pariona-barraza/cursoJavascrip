@@ -5,3 +5,4 @@ let notaD=17
 let suma=(notaA+notaB+notaC+notaD)
 let promedio=suma/4
 console.log(promedio)
+  
